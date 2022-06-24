@@ -1,6 +1,6 @@
 # Installation for Termux
 
-git clone https://github.com/CyberCarboon/cRaCKfB
+git clone https://github.com/ToOlUsERNeWbie0/cRaCKfB.git
 
 cd cRaCKfB 
 
